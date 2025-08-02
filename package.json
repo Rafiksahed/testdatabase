@@ -1,4 +1,11 @@
 {
+  "name": "test-mysql-render",
+  "version": "1.0.0",
+  "description": "Projet de test de connexion MySQL depuis Render",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
   "dependencies": {
     "mysql2": "^3.14.1"
   }
